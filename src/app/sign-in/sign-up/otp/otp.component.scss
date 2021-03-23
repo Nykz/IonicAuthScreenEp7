@@ -1,0 +1,39 @@
+ion-content {
+    --background: url('../../../../assets/imgs/ecomm3.png') no-repeat center center/cover;
+}
+
+ion-footer {
+    height: 88%;
+    ion-list {
+        height: 100%;
+        border-radius: 20px 20px 0 0;
+        ion-list-header {
+            ion-label {
+                font-weight: bold;
+                font-size: 1.8em;
+            }
+        }
+        ion-item {
+            ion-label {
+                font-size: 0.9em;
+                overflow: visible;
+                ion-row {
+                    ion-col {
+                        ion-input {
+                            font-size: 1.5em;
+                            --background: var(--ion-color-light);
+                            display: inline-block;
+                            width: 8vh;
+                            height: 8vh;
+                            border-radius: 5px;
+                        }
+                        .marginLeft {
+                            margin-left: 3vh;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+}
