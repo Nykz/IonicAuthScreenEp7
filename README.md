@@ -1,10 +1,9 @@
 # IonicAuthScreenEp7
 E-COMMERCE APP (Auth Screens with form validation)
 
-<img src="https://github.com/Nykz/ionicLoginScreenEp6/blob/main/screen1.png" width="200" height="400" />
-<img src="https://github.com/Nykz/ionicLoginScreenEp6/blob/main/screen2.png" width="200" height="400" />
-<img src="https://github.com/Nykz/ionicLoginScreenEp6/blob/main/signin.png" width="200" height="400" />
-<img src="https://github.com/Nykz/ionicLoginScreenEp6/blob/main/signup.png" width="200" height="400" />
+<img src="https://github.com/Nykz/IonicAuthScreenEp7/blob/main/screenshots/screenshot1.png" width="200" height="400" />
+<img src="https://github.com/Nykz/IonicAuthScreenEp7/blob/main/screenshots/screenshot2.png" width="200" height="400" />
+<img src="https://github.com/Nykz/IonicAuthScreenEp7/blob/main/screenshots/screenshot3.png" width="200" height="400" />
 
 ### Steps to Setup this beautiful E-Commerce App screen in your system
 
