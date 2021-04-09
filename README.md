@@ -1,6 +1,8 @@
 # IonicAuthScreenEp7
 E-COMMERCE APP (Auth Screens with form validation)
 
+Watch the Full Episode on YouTube at https://www.youtube.com/watch?v=vdRYkwImbYQ&list=PLixvNT19uDK6Fk6glTj18ONQRpCAVnY0G&index=4&ab_channel=CodingTechnyks
+
 <img src="https://github.com/Nykz/IonicAuthScreenEp7/blob/main/screenshots/screenshot1.png" width="200" height="400" />
 <img src="https://github.com/Nykz/IonicAuthScreenEp7/blob/main/screenshots/screenshot2.png" width="200" height="400" />
 <img src="https://github.com/Nykz/IonicAuthScreenEp7/blob/main/screenshots/screenshot3.png" width="200" height="400" />
